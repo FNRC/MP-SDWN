@@ -1,2 +1,2 @@
-# MP--SDWN
-MP-SDWN is an SDN framework programmable enterprise WLANs. It provides multiple paths for reinforing the associations between APs and terminals. Also the multiple APIs offered by MP-SDWN enable the platform can be customized as developers' own demands.
+# MP-SDWN
+MP-SDWN is a novel WLAN system based on SDN and NFV, which provide seamless mobility, high throughput and flow-level transmission control for client. It maintains a same identification for one client on several adjacent physic APs simultaneously, to support multiple connections from multiple APs when client migrates or stays in the wireless signal overlap area. The multiple APIs offered by MP-SDWN enable the platform can be customized as developers' own demands.
