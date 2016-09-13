@@ -1,0 +1,7 @@
+#Pool-1
+NAME pool-1
+NODES 172.23.22.16 172.23.22.200 172.23.22.7
+NETWORKS sdwn-cqupt-future
+APPLICATIONS net.floodlightcontroller.odin.applications.OdinMobilityManager
+
+
