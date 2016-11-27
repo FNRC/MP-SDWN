@@ -3,7 +3,7 @@ MP-SDWN is a novel WLAN system based on SDN and NFV, which provide seamless mobi
 
 MP-SDWN is inspired by Odin, and extended it from two main aspects:
 
-1. We add the functions of HostAP into Click to manage the user association with VAP operation. To ultilize the original wireless data frame transmission control algorithm in kernel space, a NAT module is implemented in eth interface to translate the VAP and MAC address of users. (It was finished in release 1.0)
+1. We add the functions of hostapd into Click to manage the user association with VAP operation. To ultilize the original wireless data frame transmission control algorithm in kernel space, a NAT module is implemented in eth interface to translate the VAP and MAC address of users. (It was finished in release 1.0)
 
 2. A DHCP control model and an access authentication model were implemented in MP-SDWN to provide user access. (It was finished in release 1.0)
 
