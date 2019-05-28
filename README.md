@@ -9,7 +9,7 @@ MP-SDWN is inspired by Odin, and extended it from two main aspects:
 
 3. We proposed MC-VAP (multiple connection supported VAP), for a client, which maintains a same identification distributed on several adjacent physic APs simultaneously, to support multiple-path transmission from multiple APs when client migrates or stays in the wireless signal overlap area. This technology can improve the throughput significantly. (It is still under developing)
 
-### Papers
+## Papers
 Our approach is detailed in three scientific contributions:
 ```
 @article{xu2017novel,
