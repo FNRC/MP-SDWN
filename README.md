@@ -22,3 +22,18 @@ Our approach is detailed in three scientific contributions:
   publisher={IEEE}
 }
 ```
+```
+@article{wang2017tuna,
+  title={Tuna: An efficient and practical scheme for wireless access point in 5G networks virtualization},
+  author={Wang, Xinheng and Xu, Chuan and Zhao, Guofeng and Yu, Shui},
+  journal={IEEE Communications Letters},
+  volume={22},
+  number={4},
+  pages={748--751},
+  year={2017},
+  publisher={IEEE}
+}
+```
+```
+MC-VAP: A multi-connection virtual access point for high performance software-defined wireless networks
+```
