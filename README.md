@@ -8,3 +8,5 @@ MP-SDWN is inspired by Odin, and extended it from two main aspects:
 2. A DHCP control model and an access authentication model were implemented in MP-SDWN to provide user access. (It was finished in release 1.0)
 
 3. We proposed MC-VAP (multiple connection supported VAP), for a client, which maintains a same identification distributed on several adjacent physic APs simultaneously, to support multiple-path transmission from multiple APs when client migrates or stays in the wireless signal overlap area. This technology can improve the throughput significantly. (It is still under developing)
+
+Our approach is detailed in three scientific contributions:
